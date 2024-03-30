@@ -1,18 +1,18 @@
 @font-face {
     font-family: myFont;
-    src: url('./Font/neue-haas-grotesk-display-pro-cufonfonts/NeueHaasDisplayMediu.ttf');
+    src: url('NeueHaasDisplayMediu.ttf');
 }
 
 @font-face {
     font-family: myFont;
     font-weight: 100;
-    src: url('./Font/neue-haas-grotesk-display-pro-cufonfonts/NeueHaasDisplayLight.ttf');
+    src: url('NeueHaasDisplayLight.ttf');
 }
 
 @font-face {
     font-family: myFont;
     font-weight: 200;
-    src: url('./Font/neue-haas-grotesk-display-pro-cufonfonts/NeueHaasDisplayRoman.ttf');
+    src: url('NeueHaasDisplayRoman.ttf');
 }
 
 
